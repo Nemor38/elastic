@@ -1,0 +1,16 @@
+# FastAPI Elasticsearch and Redis Integration
+
+## Опис
+
+Проект демонструє інтеграцію FastAPI з Elasticsearch та Redis.
+
+## Запуск
+
+1. Встановіть Docker та Docker Compose.
+2. Виконайте команду `docker-compose up` для запуску сервісів.
+3. Додаток буде доступний за адресою `http://localhost:8000`.
+
+## Використання
+
+### Оновлення індексу
+
